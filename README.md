@@ -1,72 +1,113 @@
 # Hi — I'm Elias (eliassrm) 👋
 
-> Software Engineer · Full‑stack developer · Open‑source enthusiast
+> Network · Electrical · Photonic Engineer · Full-stack  · Researcher
 
 [![Elias on GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?logo=github&logoColor=white)](https://github.com/eliassrm)
-[![Email](https://img.shields.io/badge/Email-hello%40example.com-D14836?logo=gmail&logoColor=white)](mailto:hello@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eliassrm-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliassrm)
+[![Email](https://img.shields.io/badge/Email-EliasSaffarmoghadam%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elias.srm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliasSRM-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliassrm)
 
 ---
 
-## About me
-I'm a software engineer focused on building reliable, maintainable web applications and developer tools. I enjoy learning new technologies, contributing to open source, and helping teams ship fast with quality.
+## 👨‍🔬 About Me
+I’m an **Electrical, Network, and Photonic Engineer** and an **M.Sc.  in Internet and Multimedia Engineering** at the **University of Genoa**.  
+My work and research focus on **satellite communication systems**, **GaN-based LEDs**, **antennas & electromagnetics**, and **machine learning for communication systems**.  
 
-- Location: City, Country
-- Availability: Open to new opportunities / Available for freelance (choose one)
-- Pronouns: he/him (optional)
+On the software side, I develop **FastAPI-based modular systems**, **data-driven simulations**, and **AI-powered tools** for research and automation.  
+I’m passionate about **bridging electronics and intelligent software**, writing clean code, and exploring **network performance modeling**, **security**, and **embedded systems**.
 
-## Tech & Tools
-- Languages: JavaScript (ES6+), TypeScript, Python, Go
-- Frontend: React, Next.js, Vue.js, Tailwind CSS
-- Backend: Node.js, Express, FastAPI, PostgreSQL
-- DevOps & Tools: Docker, GitHub Actions, Kubernetes, AWS
-- Testing: Jest, React Testing Library, PyTest
-
-## Highlighted Projects
-- Project One — Short tagline or one-line description.  
-  Tech: Next.js, TypeScript, Vercel.  
-  Link: https://github.com/eliassrm/project-one
-
-- Project Two — Short tagline or one-line description.  
-  Tech: Node.js, Express, PostgreSQL.  
-  Link: https://github.com/eliassrm/project-two
-
-- Project Three — Short tagline or one-line description.  
-  Tech: React, Tailwind CSS, Netlify.  
-  Link: https://github.com/eliassrm/project-three
-
-(Replace these with your projects and links)
-
-## Experience
-- Senior Software Engineer — Company A (2022 — Present)  
-  - Led migration of monolith to microservices, improving deployment frequency and reliability.  
-  - Implemented observability stack (Prometheus, Grafana) reducing incident MTTR by X%.
-
-- Software Engineer — Company B (2019 — 2022)  
-  - Built and maintained feature-rich customer-facing web app with 100k+ monthly users.  
-  - Mentored interns and improved onboarding docs, decreasing ramp time by Y%.
-
-(Add or remove roles and expand accomplishments as needed)
-
-## Education
-- B.Sc. in Computer Science — University Name (2015 — 2019)  
-  Relevant coursework: Data Structures, Algorithms, Databases, Distributed Systems
-
-## Open Source & Community
-- Active contributor to: ProjectX, LibraryY  
-- Blog: https://yourblog.example.com — posts about engineering, architecture, and tooling
-
-## Contact
-- Email: hello@example.com
-- LinkedIn: https://linkedin.com/in/eliassrm
-- Website: https://eliassrm.dev
+- 📍 Location: Genoa, Italy  
+- 💼 Availability: Open to research collaborations and engineering opportunities  
+- ⚡ Interests: UAVs, cognitive systems, AI for communication networks, and high-performance software
 
 ---
 
-If you'd like this README to include:
-- Dynamic GitHub stats (repositories, languages) or a contributions chart
-- A custom profile banner or avatar
-- A short downloadable PDF CV link
-tell me which and I’ll add the exact embed lines and files.
+## 🧠 Tech & Tools
+**Languages:** Python, C++, Matlab  
+**Frameworks:** FastAPI, SQLModel, Scikit  
+**Database:** N/A  
+**DevOps & Tools:**  Linux, Git  
+**Testing:** N/A  
+**Specialized Areas:**  
+- Queueing theory, Markov chains, and network modeling  
+- IPsec, TLS, IDS, and network security architectures  
+- Embedded systems and circuit design  
+- Machine learning (PCA, Bayesian classification, clustering, K-means)
 
-Thanks — if you want, reply with your details and I’ll generate a fully filled README.md ready to paste or I can create the profile repo for you (I'll need repo permission or you can create it and invite me).
+---
+
+## 🚀 Highlighted Projects
+
+- **FastAPI Workflow Manager** — Modular REST API for managing workflows, commands, and roles.  
+  _Tech:_ FastAPI, SQLModel, PostgreSQL, Docker.  
+  🔗 [View on GitHub](https://github.com/eliassrm/REST-API)
+
+- **AL-Smarthome Generalization Project** — Refactoring of `al.py` for dataset generalization and reusability.  
+  _Tech:_ Python, Pandas, Modular OOP design.  
+  🔗 [View on GitHub](https://github.com/eliassrm/AL-Smarthome-S)
+
+
+
+---
+
+## 💼 Experience
+
+[//]: # (**Graduate Researcher — University of Genoa**  )
+
+[//]: # (_2024 – Present_  )
+
+[//]: # (- Designed and modeled satellite communication systems with CTMC fading and queueing analysis.  )
+
+[//]: # (- Developed FastAPI-based backend systems for modular workflow execution and access control.  )
+
+[//]: # (- Conducted performance analysis of GaN-based LEDs and photonic devices.  )
+
+[//]: # (- Applied ML algorithms for network behavior prediction and system optimization.)
+
+[//]: # ()
+[//]: # (**Electronics Engineer — Industry & Research Projects**  )
+
+[//]: # (_2020 – 2023_  )
+
+[//]: # (- Developed embedded control systems and data acquisition software.  )
+
+[//]: # (- Worked on antenna modeling, signal propagation, and system reliability analysis.  )
+
+[//]: # (- Created simulation frameworks for optical and electronic components.  )
+
+---
+
+## 🎓 Education
+
+**M.Sc. Internet and Multimedia Engineering** — University of Genoa, Italy  
+Focus: Cognitive Dynamic Systems, Machine Learning, UAV Communication Systems  
+
+**B.Sc. Electrical and Electronic Engineering** — [Your University Name]  
+Focus: Circuits, Communications, Embedded Systems, and Control
+
+---
+
+## 🌍 Open Source & Community
+
+[//]: # (- Active contributor to open FastAPI and simulation repositories.  )
+
+[//]: # (- Passionate about documenting research-grade projects for public use.  )
+
+[//]: # (- Advocate for reproducible scientific computing and education in network engineering.)
+
+---
+
+## 📫 Contact
+- **Email:** [EliasSaffarmoghadam@gmail.com](mailto:EliasSaffarmoghadam@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/elias-saffarmoghadam](http://www.linkedin.com/in/elias-saffarmoghadam)  
+- **GitHub:** [github.com/eliassrm](https://github.com/eliassrm)
+
+---
+
+## 🧩 GitHub Stats
+![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact&theme=github_dark)
+
+---
+
+> “Engineering is about connecting the abstract with the tangible — from photons to Python.”
+
