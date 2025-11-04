@@ -1,0 +1,18 @@
+# GitHub Repos Mentioned
+
+1. [Awesome lists](https://github.com/sindresorhus/awesome)
+2. [The Algorithms](https://github.com/thealgorithms)
+3. [Build Your Own X](https://github.com/codecrafters-io/bu...)
+4. [Free For Dev](https://github.com/ripienaar/free-for...)
+5. [Free Programming Books](https://github.com/EbookFoundation/fr...)
+6. [Roadmap.sh](https://github.com/kamranahmedse/deve...)
+7. [Computer Science](https://github.com/ossu/computer-science)
+8. [Engineering Blogs](https://github.com/kilimchoi/engineer...)
+9. [System Design Primer](https://github.com/donnemartin/system...)
+10. [Public APIs](https://github.com/public-apis/public...)
+11. [Open Source Alternatives](https://github.com/btw-so/open-source...)
+12. [Papers We Love](https://github.com/papers-we-love/pap...)
+13. [Best Websites A Programmer Should Visit](https://github.com/sdmg15/Best-websit...)
+14. [LLMs From Scratch](https://github.com/rasbt/LLMs-from-sc...)
+15. [ML From Scratch](https://github.com/eriklindernoren/ML...)
+16. [Made With ML](https://github.com/GokuMohandas/Made-...)
