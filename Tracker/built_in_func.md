@@ -117,7 +117,25 @@ A quick reference of commonly used Python built-in functions, organized by categ
 | `callable(obj)`                         | Checks if callable                | `callable(len) → True`       |
 
 ---
+### Escape Sequences in Strings
 
+In Python (and many other programming languages), a backslash `\` followed by a character represents an **escape sequence**.
+
+Below are some common escape characters:
+
+| Escape Sequence | Meaning |
+|-----------------|---------|
+| `\n`            | New line |
+| `\t`            | Tab (8 spaces) |
+| `\\`            | Backslash (`\`) |
+| `\'`            | Single quote (`'`) |
+| `\"`            | Double quote (`"`) |
+  
+   
+
+
+
+---
 ✅ **Tip:** List all built-in functions using:
 
 ```python
