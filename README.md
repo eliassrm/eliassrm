@@ -1,6 +1,6 @@
-# Hi — I'm Elias (eliassrm) 👋
 
-> Network · Electrical · Photonic Engineer · Full-stack  · Researcher
+
+> Welcome
 
 [![Elias on GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?logo=github&logoColor=white)](https://github.com/eliassrm)
 [![Email](https://img.shields.io/badge/Email-EliasSaffarmoghadam%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elias.srm@gmail.com)
@@ -8,26 +8,22 @@
 
 ---
 
-## 👨‍🔬 About Me
-I’m an **Electrical, Network, and Photonic Engineer** and an **M.Sc.  in Internet and Multimedia Engineering** at the **University of Genoa**.  
-My work and research focus on **satellite communication systems**, **GaN-based LEDs**, **antennas & electromagnetics**, and **machine learning for communication systems**.  
-
-On the software side, I develop **FastAPI-based modular systems**, **data-driven simulations**, and **AI-powered tools** for research and automation.  
-I’m passionate about **bridging electronics and intelligent software**, writing clean code, and exploring **network performance modeling**, **security**, and **embedded systems**.
+## About Me
+I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in Internet and Multimedia Engineering** from the **University of Genoa**.  
 
 - 📍 Location: Genoa, Italy  
-- 💼 Availability: Open to research collaborations and engineering opportunities  
-- ⚡ Interests: UAVs, cognitive systems, AI for communication networks, and high-performance software
+- 💼 Availability: Open to research collaborations and network opportunities  
+- ⚡ Interests: UAVs, Cognitive Systems, AI in Optical Communication
 
 ---
 
-## 🧠 Tech & Tools
+## Tech & Tools
 **Languages:** Python, C++, Matlab  
-**Frameworks:** FastAPI, SQLModel, Scikit  
+**Frameworks:** FastAPI, SQLModel, Sci-kit  
 **Database:** N/A  
 **DevOps & Tools:**  Linux, Git  
 **Testing:** N/A  
-**Specialized Areas:**  
+**Specialized Areas:**
 - Queueing theory, Markov chains, and network modeling  
 - IPsec, TLS, IDS, and network security architectures  
 - Embedded systems and circuit design  
@@ -81,12 +77,12 @@ I’m passionate about **bridging electronics and intelligent software**, writin
 **M.Sc. Internet and Multimedia Engineering** — University of Genoa, Italy  
 Focus: Cognitive Dynamic Systems, Machine Learning, UAV Communication Systems  
 
-**B.Sc. Electrical and Electronic Engineering** — [Your University Name]  
-Focus: Circuits, Communications, Embedded Systems, and Control
+**B.Sc. Electrical and Electronic Engineering** — Babol Noshirvani Institute of Technology, Iran  
+Focus: Circuit Design, Telecommunications, Electronics, GaN/InGaN LEDs
 
----
+[//]: # (---)
 
-## 🌍 Open Source & Community
+[//]: # (## 🌍 Open Source & Community)
 
 [//]: # (- Active contributor to open FastAPI and simulation repositories.  )
 
@@ -104,10 +100,9 @@ Focus: Circuits, Communications, Embedded Systems, and Control
 ---
 
 ## 🧩 GitHub Stats
-![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact&theme=github_dark)
+![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact)
 
 ---
 
-> “Engineering is about connecting the abstract with the tangible — from photons to Python.”
 
