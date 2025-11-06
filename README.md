@@ -43,9 +43,9 @@ I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in I
 
 
 
----
+[//]: # (---)
 
-## 💼 Experience
+[//]: # (## 💼 Experience)
 
 [//]: # (**Graduate Researcher — University of Genoa**  )
 
@@ -72,27 +72,32 @@ I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in I
 
 ---
 
-## 🎓 Education
+[//]: # (## 🎓 Education)
 
-**M.Sc. Internet and Multimedia Engineering** — University of Genoa, Italy  
-Focus: Cognitive Dynamic Systems, Machine Learning, UAV Communication Systems  
+[//]: # ()
+[//]: # (**M.Sc. Internet and Multimedia Engineering** — University of Genoa, Italy  )
 
-**B.Sc. Electrical and Electronic Engineering** — Babol Noshirvani Institute of Technology, Iran  
-Focus: Circuit Design, Telecommunications, Electronics, GaN/InGaN LEDs
+[//]: # (Focus: Cognitive Dynamic Systems, Machine Learning, UAV Communication Systems  )
 
+[//]: # ()
+[//]: # (**B.Sc. Electrical and Electronic Engineering** — Babol Noshirvani Institute of Technology, Iran  )
+
+[//]: # (Focus: Circuit Design, Telecommunications, Electronics, GaN/InGaN LEDs)
+
+[//]: # ()
+[//]: # ([//]: # &#40;---&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;## 🌍 Open Source & Community&#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;- Active contributor to open FastAPI and simulation repositories.  &#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;- Passionate about documenting research-grade projects for public use.  &#41;)
+[//]: # ()
+[//]: # ([//]: # &#40;- Advocate for reproducible scientific computing and education in network engineering.&#41;)
+[//]: # ()
 [//]: # (---)
 
-[//]: # (## 🌍 Open Source & Community)
-
-[//]: # (- Active contributor to open FastAPI and simulation repositories.  )
-
-[//]: # (- Passionate about documenting research-grade projects for public use.  )
-
-[//]: # (- Advocate for reproducible scientific computing and education in network engineering.)
-
----
-
-## 📫 Contact
+## 📫 Contact Me
 - **Email:** [EliasSaffarmoghadam@gmail.com](mailto:EliasSaffarmoghadam@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/elias-saffarmoghadam](http://www.linkedin.com/in/elias-saffarmoghadam)  
 - **GitHub:** [github.com/eliassrm](https://github.com/eliassrm)
