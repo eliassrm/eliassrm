@@ -104,9 +104,9 @@ I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in I
 
 ---
 
-## 🧩 GitHub Stats
-[((![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true)] :#
-[((![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact)] :#
+<!-- ## 🧩 GitHub Stats -->
+<!-- [((![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true) -->
+<!-- [((![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact) -->
 
 ---
 
