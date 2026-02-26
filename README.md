@@ -19,7 +19,7 @@ I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in I
 
 ## Tech & Tools
 **Languages:** Python, C++, Matlab  
-**Frameworks:** FastAPI, SQLModel, Sci-kit  
+**Frameworks:** FastAPI, Sci-kit , Django 
 **Database:** N/A  
 **DevOps & Tools:**  Linux, Git  
 **Testing:** N/A  
