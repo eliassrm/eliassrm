@@ -11,7 +11,7 @@
 ## About Me
 I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in Internet and Multimedia Engineering** from the **University of Genoa**.  
 
-- 📍 Location: Genoa, Italy  
+- 📍 Location: Genova, Italy  
 - 💼 Availability: Open to research collaborations and network opportunities  
 - ⚡ Interests: UAVs, Cognitive Systems, AI in Optical Communication
 
@@ -19,8 +19,8 @@ I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in I
 
 ## Tech & Tools
 **Languages:** Python, C++, Matlab  
-**Frameworks:** FastAPI, Sci-kit , Django 
-**Database:** N/A  
+**Frameworks:** FastAPI, Sci-kit , Django   
+**Database:** Microsoft SQL    
 **DevOps & Tools:**  Linux, Git  
 **Testing:** N/A  
 **Specialized Areas:**
