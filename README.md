@@ -9,11 +9,11 @@
 ---
 
 ## About Me
-I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in Internet and Multimedia Engineering** from the **University of Genoa**.  
+I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in Internet and Multimedia Engineering** from the **University of Genova**.  
 
 - 📍 Location: Genova, Italy  
 - 💼 Availability: Open to research collaborations and network opportunities  
-- ⚡ Interests: UAVs, Cognitive Systems, AI in Optical Communication
+- ⚡ Interests: UAVs, Cognitive Systems, AI in Optical Communication, SW Development
 
 ---
 
@@ -41,7 +41,9 @@ I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in I
   _Tech:_ Python, Pandas, Modular OOP design.  
   🔗 [View on GitHub](https://github.com/eliassrm/AL-Smarthome-S)
 
-
+- **Traffic-Managment-Sys** — Django Backend   
+  _Tech:_ Python   
+  🔗 [View on GitHub](https://github.com/eliassrm/Traffic-Managment-Sys.git)
 
 [//]: # (---)
 
