@@ -4,7 +4,7 @@
 
 [![Elias on GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?logo=github&logoColor=white)](https://github.com/eliassrm)
 [![Email](https://img.shields.io/badge/Email-EliasSaffarmoghadam%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elias.srm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliasSRM-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/eliassrm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliasSRM-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-saffarmoghadam/)
 
 ---
 
