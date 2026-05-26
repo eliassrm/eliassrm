@@ -107,8 +107,23 @@
 ---
 
 ## 🧩 GitHub Stats
-[![Elias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true)](https://github.com/eliassrm)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact)](https://github.com/eliassrm)
 
+<p align="center">
+  <a href="https://github.com/eliassrm">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true&hide_border=true" 
+      alt="Elias's GitHub Stats" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/eliassrm">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact&hide_border=true" 
+      alt="Top Languages" 
+    />
+  </a>
+</p>
 
 
