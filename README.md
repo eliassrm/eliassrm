@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-I’m a multidisciplinary **Electrical and Network Engineer** and a **M.Sc. in Internet and Multimedia Engineering** from the **University of Genova**.  
+**M.Sc. in Internet and Multimedia Engineering** and **Electronic Engineer** from **Italy**.  
 
 - 📍 Location: Genova, Italy  
 - 💼 Availability: Open to research collaborations and network opportunities  
