@@ -33,7 +33,7 @@
 
 ## 🚀 Highlighted Projects
 
-- **FastAPI Workflow Manager** — Modular REST API for managing workflows, commands, and roles.  
+- **FastAPI Workflow Manager** — Modular REST API for managing workflow, commands, and roles.  
   _Tech:_ FastAPI, SQLModel, PostgreSQL, Docker.  
   🔗 [View on GitHub](https://github.com/eliassrm/REST-API)
 
