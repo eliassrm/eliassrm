@@ -3,10 +3,10 @@
 
 # Hi, I'm Elias 👋
 
-### Electronics Engineer · Software Developer · M.Sc. in Internet & Multimedia Engineering
+### Software Engineering Consultant · Electrical & Network Engineer
 
-I build reliable software and intelligent systems at the intersection of<br>
-**networking, machine learning, embedded systems, and optical communications**.
+Multidisciplinary engineer building reliable software and intelligent systems at the intersection of<br>
+**software engineering, networking, machine learning, and optical communications**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eliassrm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Saffarmoghadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-saffarmoghadam/)
@@ -19,9 +19,18 @@ I build reliable software and intelligent systems at the intersection of<br>
 ## 👨‍💻 About Me
 
 - 📍 Based in **Genoa, Italy**
-- 🎓 M.Sc. in **Internet and Multimedia Engineering**
+- 💼 Software Engineering Consultant at **D&T**
+- 🎓 M.Sc. in **Internet and Multimedia Engineering** from the **University of Genoa**
+- ⚙️ Background in **electrical engineering, network engineering, and backend development**
 - 🔭 Interested in **UAVs, cognitive systems, AI-powered optical communications, and software development**
 - 🤝 Open to **research collaborations and professional networking**
+
+## 💼 Experience & Education
+
+| | Organization | Details |
+| --- | --- | --- |
+| **Current role** | **D&T** | Software Engineering Consultant |
+| **M.Sc.** | **University of Genoa** | Internet and Multimedia Engineering · 2023–2025 |
 
 ## 🛠️ Tech & Tools
 
@@ -38,6 +47,16 @@ I build reliable software and intelligent systems at the intersection of<br>
 - IPsec, TLS, IDS, and network security architectures
 - Embedded systems and circuit design
 - Machine learning, including PCA, Bayesian classification, clustering, and K-means
+
+### Languages
+
+- **Persian:** Native or bilingual proficiency
+- **English:** Full professional proficiency
+- **Italian:** Elementary proficiency
+
+### Certifications
+
+`Python 3` `JavaScript` `HTML` `CSS` `jQuery`
 
 ---
 
