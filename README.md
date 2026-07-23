@@ -1,49 +1,65 @@
 
+<div align="center">
 
-> # Welcome
+# Hi, I'm Elias 👋
 
-[![Elias on GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?logo=github&logoColor=white)](https://github.com/eliassrm)
-[![Email](https://img.shields.io/badge/Email-EliasSaffarmoghadam%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:elias.srm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EliasSRM-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-saffarmoghadam/)
+### Electronics Engineer · Software Developer · M.Sc. in Internet & Multimedia Engineering
 
----
+I build reliable software and intelligent systems at the intersection of<br>
+**networking, machine learning, embedded systems, and optical communications**.
 
-## About Me
-**M.Sc. in Internet and Multimedia Engineering** and **Electronic Engineer** from **Italy**.  
+[![GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eliassrm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Saffarmoghadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-saffarmoghadam/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliasSaffarmoghadam@gmail.com)
 
-- 📍 Location: Genova, Italy  
-- 💼 Availability: Open to research collaborations and network opportunities  
-- ⚡ Interests: UAVs, Cognitive Systems, AI in Optical Communication, SW Development
-
----
-
-## Tech & Tools
-**Languages:** Python, C++, Matlab  
-**Frameworks:** FastAPI, Sci-kit , Django   
-**Database:** Microsoft SQL    
-**DevOps & Tools:**  Linux, Git  
-**Testing:** N/A  
-**Specialized Areas:**
-- Queueing theory, Markov chains, and network modeling  
-- IPsec, TLS, IDS, and network security architectures  
-- Embedded systems and circuit design  
-- Machine learning (PCA, Bayesian classification, clustering, K-means)
+</div>
 
 ---
 
-## 🚀 Highlighted Projects
+## 👨‍💻 About Me
 
-- **FastAPI Workflow Manager** — Modular REST API for managing workflow, commands, and roles.  
-  _Tech:_ FastAPI, SQLModel, PostgreSQL, Docker.  
-  🔗 [View on GitHub](https://github.com/eliassrm/REST-API)
+- 📍 Based in **Genoa, Italy**
+- 🎓 M.Sc. in **Internet and Multimedia Engineering**
+- 🔭 Interested in **UAVs, cognitive systems, AI-powered optical communications, and software development**
+- 🤝 Open to **research collaborations and professional networking**
 
-- **AL-Smarthome Generalization Project** — Refactoring of `al.py` for dataset generalization and reusability.  
-  _Tech:_ Python, Pandas, Modular OOP design.  
-  🔗 [View on GitHub](https://github.com/eliassrm/AL-Smarthome-S)
+## 🛠️ Tech & Tools
 
-- **Traffic-Managment-Sys** — Django Backend   
-  _Tech:_ Python   
-  🔗 [View on GitHub](https://github.com/eliassrm/Traffic-Managment-Sys.git)
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, C++, MATLAB |
+| **Frameworks & Libraries** | FastAPI, Django, scikit-learn, Pandas, SQLModel |
+| **Databases** | Microsoft SQL Server, PostgreSQL |
+| **DevOps & Tools** | Linux, Git, Docker |
+
+### Specialized Areas
+
+- Queueing theory, Markov chains, and network modeling
+- IPsec, TLS, IDS, and network security architectures
+- Embedded systems and circuit design
+- Machine learning, including PCA, Bayesian classification, clustering, and K-means
+
+---
+
+## 🚀 Featured Projects
+
+### [FastAPI Workflow Manager](https://github.com/eliassrm/REST-API)
+
+A modular REST API for managing workflows, commands, and role-based access.
+
+`FastAPI` `SQLModel` `PostgreSQL` `Docker`
+
+### [AL-Smarthome Generalization Project](https://github.com/eliassrm/AL-Smarthome-S)
+
+A reusable, generalized refactoring of `al.py` for smart-home datasets.
+
+`Python` `Pandas` `Object-Oriented Design`
+
+### [Traffic Management System](https://github.com/eliassrm/Traffic-Managment-Sys)
+
+A Django backend for traffic-management workflows.
+
+`Python` `Django`
 
 [//]: # (---)
 
@@ -99,17 +115,19 @@
 [//]: # ()
 [//]: # (---)
 
-## 📫 Contact Me
-- **Email:** [EliasSaffarmoghadam@gmail.com](mailto:EliasSaffarmoghadam@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/elias-saffarmoghadam](http://www.linkedin.com/in/elias-saffarmoghadam)  
+## 📫 Let's Connect
+
+I'm always happy to discuss research, engineering, and new collaboration opportunities.
+
+- **Email:** [EliasSaffarmoghadam@gmail.com](mailto:EliasSaffarmoghadam@gmail.com)
+- **LinkedIn:** [linkedin.com/in/elias-saffarmoghadam](https://www.linkedin.com/in/elias-saffarmoghadam/)
 - **GitHub:** [github.com/eliassrm](https://github.com/eliassrm)
 
 ---
 
-## 🧩 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true&hide_border=true&theme=transparent" alt="Elias's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true&hide_border=true&theme=transparent" alt="Elias's GitHub stats" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact&hide_border=true&theme=transparent" alt="Elias's most-used languages" />
 </p>
-
