@@ -147,6 +147,7 @@ I'm always happy to discuss research, engineering, and new collaboration opportu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eliassrm&show_icons=true&hide_border=true&theme=transparent" alt="Elias's GitHub stats" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliassrm&layout=compact&hide_border=true&theme=transparent" alt="Elias's most-used languages" />
+  <a href="https://github.com/cicirello/user-statistician">
+    <img width="100%" src="images/userstats.svg" alt="Elias's GitHub activity, repository statistics, and language distribution" />
+  </a>
 </p>

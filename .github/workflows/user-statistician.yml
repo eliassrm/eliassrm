@@ -1,0 +1,35 @@
+name: Generate GitHub statistics
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/user-statistician.yml
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: user-statistician
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate the statistics card
+        uses: cicirello/user-statistician@v1
+        with:
+          colors: dark-dimmed
+          custom-title: Elias's GitHub Activity
+          image-width: 720
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
