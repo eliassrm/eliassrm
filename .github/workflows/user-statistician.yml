@@ -1,4 +1,5 @@
-name: Generate GitHub statistics
+name: user-statistician
+uses: cicirello/user-statistician@v1.26.3
 
 on:
   push:
