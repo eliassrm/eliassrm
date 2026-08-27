@@ -143,11 +143,11 @@ I'm always happy to discuss research, engineering, and new collaboration opportu
 - **GitHub:** [github.com/eliassrm](https://github.com/eliassrm)
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/cicirello/user-statistician">
     <img width="100%" src="images/userstats.svg" alt="Elias's GitHub activity, repository statistics, and language distribution" />
   </a>
-</p>
+</p> -->
