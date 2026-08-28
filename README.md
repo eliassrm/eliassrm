@@ -1,20 +1,9 @@
 
-<div align="center">
+## SW Consultant · Electronic & Network Engineer
 
-# Hi, I'm Elias 👋
+Multidisciplinary engineer at the intersection of
+**Wireless telecommunications, SW development, networking, ML/AI.**
 
-### Software Engineering Consultant · Electrical & Network Engineer
-
-Multidisciplinary engineer building reliable software and intelligent systems at the intersection of<br>
-**software engineering, networking, machine learning, and optical communications**.
-
-[![GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eliassrm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Saffarmoghadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-saffarmoghadam/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliasSaffarmoghadam@gmail.com)
-
-</div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -22,7 +11,7 @@ Multidisciplinary engineer building reliable software and intelligent systems at
 - 💼 Software Engineering Consultant at **D&T**
 - 🎓 M.Sc. in **Internet and Multimedia Engineering** from the **University of Genoa**
 - ⚙️ Background in **electrical engineering, network engineering, and backend development**
-- 🔭 Interested in **UAVs, cognitive systems, AI-powered optical communications, and software development**
+- 🔭 Interested in **UAVs, cognitive systems, and software development**
 - 🤝 Open to **research collaborations and professional networking**
 
 ## 💼 Experience & Education
@@ -142,6 +131,11 @@ I'm always happy to discuss research, engineering, and new collaboration opportu
 - **LinkedIn:** [linkedin.com/in/elias-saffarmoghadam](https://www.linkedin.com/in/elias-saffarmoghadam/)
 - **GitHub:** [github.com/eliassrm](https://github.com/eliassrm)
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-eliassrm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eliassrm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Saffarmoghadam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-saffarmoghadam/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliasSaffarmoghadam@gmail.com)
+---
 ---
 <!-- 
 ## 📊 GitHub Stats
